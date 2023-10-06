@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "239960961776",
+    "project_id": "login-d65dd",
+    "storage_bucket": "login-d65dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:239960961776:android:6196ee0d0db64b5163c835",
+        "android_client_info": {
+          "package_name": "com.Extra.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBnDEZCOWj2fc4p2iYQtpXvqWDKRYpCxc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

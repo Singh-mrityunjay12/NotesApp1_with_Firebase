@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "337967528131",
+    "project_id": "form-a45ea",
+    "storage_bucket": "form-a45ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:337967528131:android:2f062f5fabce0de2798a76",
+        "android_client_info": {
+          "package_name": "com.Extra.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClK2AYxmsb4x7RgzHeSR37pTK0PsU7PBw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
